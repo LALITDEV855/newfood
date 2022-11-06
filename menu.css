@@ -1,0 +1,25 @@
+.nav {
+    margin-top: 10px;
+}
+
+.menu {
+    margin-top: 40px;
+}
+
+.banner {
+    margin-top: 25px;
+}
+
+.banner img {
+    object-fit: cover;
+}
+
+.menu-first {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.second-menu {
+    margin-top: 40px;
+}
